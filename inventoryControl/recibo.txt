@@ -1,0 +1,3 @@
+Qtde     Item      Preço
+453      Chokito      5
+#     PREÇO TOTAL   2265

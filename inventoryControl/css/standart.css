@@ -1,0 +1,48 @@
+.centered{
+  text-align: center;
+}
+.cardMenu{
+  margin-top: 100px;
+}
+.loginContainer{
+  margin-left: 40%;
+  width: 20%;
+}
+body{
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 99%;
+}
+.footer {
+    position: fixed;
+    bottom:0;
+    width:100%;
+    background-color: lightgrey;
+    text-align: center;
+}
+.menu{
+  width: 101%;
+}
+.menuFixed{
+  position: fixed;
+  width: 101%;
+}
+.right{
+  float: right;
+  margin-right: 0px;
+  padding-right: 0px;
+  text-align: right;
+  color: white;
+}
+.admCreateEditActionButtons{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.containerMarginTop{
+  margin-top: 100px;
+}
+
+body{
+  background-color: light-grey;
+}
